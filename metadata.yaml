@@ -1,11 +1,16 @@
 _repo: Report-on-the-sanitary-conditions-of-the-labouring-population-of-Great-Britain-A-supplementar__54646
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54646-h/images/cover.jpg
 creator:
   author:
     agent_name: Chadwick, Edwin
     gutenberg_agent_id: '47969'
     url: http://www.gutenberg.org/2009/agents/47969
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54646#Report-on-the-sanitary-conditions-of-the-labouring-population-of-Great-Britain-A-supplementar_
 gutenberg_issued: '2017-05-02'
 gutenberg_type: Text
 identifiers:
